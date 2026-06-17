@@ -22,4 +22,4 @@ Melihat seluruh data pengajuan lembur.
 Mengakses laporan lembur.
 Memantau statistik lembur melalui dashboard.
 
-by:Tri Rajunito
+# by:Tri Rajunito
